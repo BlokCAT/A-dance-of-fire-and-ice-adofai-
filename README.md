@@ -1,2 +1,2 @@
-# A-dance-of-fire-and-ice-adofai-
-A dance of fire and ice 中处理adofai文件进而删除铺面特效的脚本
+# [Adofai]删除铺面特效（Game Effects）的脚本
+[冰与火之舞]处理adofai文件删除铺面特效（Game Effects）的辅助脚本
